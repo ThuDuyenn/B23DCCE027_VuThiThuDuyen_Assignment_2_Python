@@ -47,16 +47,18 @@ This project builds a **Convolutional Neural Network (CNN)** from scratch to cla
 ---
 
 ## 📊 Visualizations
-
-<div style="text-align: center; margin: 50px 0;" >
-  <h6>Training & Validation Accuracy/Loss Curves</h6>
-  <img src="SourceCode/OUTPUT/accuracy_loss_curve.png" alt="Accuracy and Loss" style="max-width: 700px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
-</div>
-
-<div style="text-align: center; margin: 50px 0;">
-  <h6>Confusion Matrix</h6>
-  <img src="SourceCode/OUTPUT/confusion_matrix.png" alt="Confusion Matrix" style="max-width: 500px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
-</div>
+<br>
+<p align="center">
+  <strong>Training & Validation Accuracy/Loss Curves</strong>
+  <br><br>
+  <img src="SourceCode/OUTPUT/accuracy_loss_curve.png" alt="Accuracy and Loss" width="700" />
+</p>
+<br>
+<p align="center">
+  <strong>Confusion Matrix</strong><br>
+  <br>
+  <img src="SourceCode/OUTPUT/confusion_matrix.png" alt="Confusion Matrix" width="500" />
+</p>
 
 ---
 
