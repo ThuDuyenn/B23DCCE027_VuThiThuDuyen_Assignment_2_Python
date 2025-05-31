@@ -1,4 +1,4 @@
-# 🎬 CNN Image Classification – Major Project
+# 🎬 CNN Image Classification
 
 ## 📌 Overview
 
